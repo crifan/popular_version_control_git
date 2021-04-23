@@ -13,4 +13,3 @@
 大体区别如下：
 
 ![svn_perfore_git_diff](../assets/img/svn_perfore_git_diff.png)
-

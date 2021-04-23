@@ -4,14 +4,14 @@
 
 简易的命令行入门教程:
 
-Git 全局设置:
+git全局设置:
 
 ```bash
 git config --global user.name "CrifanLi"
 git config --global user.email "crifan.li@xxx.com"
 ```
 
-创建 git 仓库：
+创建git仓库：
 
 ```bash
 mkdir see_empty_project_git
@@ -20,7 +20,7 @@ git init
 touch README.md
 git add README.md
 git commit -m "first commit"
-git remote add origin https://gitee.com/naturling_crifan/see_empty_project_git.git
+git remote add origin https://gitee.com/xxx_crifan/see_empty_project_git.git
 git push -u origin master
 ```
 
@@ -28,7 +28,7 @@ git push -u origin master
 
 ```bash
 cd existing_git_repo
-git remote add origin https://gitee.com/naturling_crifan/see_empty_project_git.git
+git remote add origin https://gitee.com/xxx_crifan/see_empty_project_git.git
 git push -u origin master
 ```
 

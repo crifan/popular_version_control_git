@@ -1,7 +1,7 @@
 # .gitignore
 
 * `.gitignore`
-  * 是什么：一个普通文件
+  * 是什么：普通的文本文件，是git中的一个配置文件
   * 作用：描述了`git`系统需要排除`ignore`哪些文件
   * 位置：
     * 最常见：git仓库根目录
@@ -71,4 +71,3 @@
 > 如果用`/data`，则也会导致子文件中的data目录被排除掉
 > 
 > ![fabric_sub_data_folder_excluded](../assets/img/fabric_sub_data_folder_excluded.png)
-

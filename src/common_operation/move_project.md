@@ -1,8 +1,8 @@
 # 迁移仓库且保留历史记录
 
-之前遇到过个需求：迁移仓库 整体迁移 且保留所有历史提交记录
+之前遇到过个需求：整体迁移git仓库，且保留所有历史commit提交记录
 
-想要把git仓库，整体迁移，且保留全部历史commit提交记录，步骤是：
+步骤是：
 
 ```bash
 git clone --mirror old-repo-url new-repo
@@ -101,7 +101,7 @@ git remote rm origin
 ### 添加远端地址为新仓库
 
 ```bash
-git remote add origin http://fibodtidc.corp.com:12310/data_limao/appcrawler.git
+git remote add origin http://xxx.corp.com:xxx/data_limao/appcrawler.git
 ```
 
 ### 提交上传所有代码和标签

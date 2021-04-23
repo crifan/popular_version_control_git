@@ -1,11 +1,11 @@
 # 最流行的版本管理系统：Git
 
-* 最新版本：`v0.4`
-* 更新时间：`20210421`
+* 最新版本：`v1.0`
+* 更新时间：`20210423`
 
 ## 简介
 
-介绍目前最流行的版本控制管理系统git。先概述git，再介绍基本操作，包括代码的提交、同步、撤销等；详细介绍git的配置，包括config和.gitignore，尤其是config有本地和全局，及其相关的配置文件，以及如何查看和修改配置。且对于常见的git的代理操作给出了详细的解释和操作；另外给出常见的操作，比如新建仓库后如何操作、记住密码、迁移仓库且保留历史记录；以及整理了一些常见问题；整理出git相关应用，相关的支持、git的IDE、在线的git仓库系统等。最后给出相关教程。
+介绍目前最流行的版本控制管理系统git。先概述git，再介绍基本操作，包括代码的提交、同步、撤销等；详细介绍git的配置，包括config和.gitignore，尤其是config有本地和全局，以及相关的配置文件.git/config和.gitconfig，以及如何查看和修改配置。且对于常见的git的代理操作给出了详细的解释和操作；另外给出常见的操作，比如新建仓库后如何操作、记住密码、迁移仓库且保留历史记录、PR等；以及整理了一些常见问题，比如Updated upstream Stashed changes、fatal Authentication failed for、unable to access Empty reply from server、error failed to push some refs to、warning templates not found、changes would overwritten by merge、error RPC failed HTTP 504 curl 22 等等；整理出git相关应用，相关的支持、git的IDE、在线的git仓库系统、基于git的系统等。最后给出不错的git相关教程。
 
 ## 源码+浏览+下载
 

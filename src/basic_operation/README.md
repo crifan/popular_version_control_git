@@ -7,7 +7,12 @@
 * 概述
   * ![git_add_commit_push](../assets/img/git_add_commit_push.png)
 * 详解
-  * 最基本的三步：新增并上传文件
+  * 最基本的
+    * 创建本地git仓库
+      ```bash
+      git init
+      ```
+  * 最常见的三步：新增并上传文件
     * 添加文件
         ```bash
         git add
@@ -46,4 +51,36 @@
 
 ```bash
 git remote -v
+```
+## 其他操作
+
+* 其他
+  * 常见操作
+    * 暂存本地更改（往往在`git pull`之前）
+      ```bash
+      git stash
+      ```
+    * 恢复本地更改（往往在`git pull`之后）
+      ```bash
+      git stash pop
+      ```
+  * 高级操作
+    * rebase
+    ```bash
+    git rebase
+    ```
+    * 分支
+    ```bash
+    git branch
+    git -b
+    ```
+
+### 要安装github中具体某个分支
+
+格式：`git_address#branch_name`
+
+举例：
+
+```bash
+npm install git://github.com/matthieuprat/react-tappable.git#fix-is-mounted-deprecation --save
 ```
