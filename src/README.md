@@ -1,7 +1,7 @@
-# 最流行的版本管理系统：Git
+# 最流行的版本控制系统：Git
 
 * 最新版本：`v1.0`
-* 更新时间：`20210423`
+* 更新时间：`20210425`
 
 ## 简介
 
@@ -13,7 +13,7 @@
 
 ### Gitbook源码
 
-* [crifan/popular_version_control_git: 最流行的版本管理系统：Git](https://github.com/crifan/popular_version_control_git)
+* [crifan/popular_version_control_git: 最流行的版本控制系统：Git](https://github.com/crifan/popular_version_control_git)
 
 #### 如何使用此Gitbook源码去生成发布为电子书
 
@@ -21,14 +21,14 @@
 
 ### 在线浏览
 
-* [最流行的版本管理系统：Git book.crifan.com](http://book.crifan.com/books/popular_version_control_git/website)
-* [最流行的版本管理系统：Git crifan.github.io](https://crifan.github.io/popular_version_control_git/website)
+* [最流行的版本控制系统：Git book.crifan.com](http://book.crifan.com/books/popular_version_control_git/website)
+* [最流行的版本控制系统：Git crifan.github.io](https://crifan.github.io/popular_version_control_git/website)
 
 ### 离线下载阅读
 
-* [最流行的版本管理系统：Git PDF](http://book.crifan.com/books/popular_version_control_git/pdf/popular_version_control_git.pdf)
-* [最流行的版本管理系统：Git ePub](http://book.crifan.com/books/popular_version_control_git/epub/popular_version_control_git.epub)
-* [最流行的版本管理系统：Git Mobi](http://book.crifan.com/books/popular_version_control_git/mobi/popular_version_control_git.mobi)
+* [最流行的版本控制系统：Git PDF](http://book.crifan.com/books/popular_version_control_git/pdf/popular_version_control_git.pdf)
+* [最流行的版本控制系统：Git ePub](http://book.crifan.com/books/popular_version_control_git/epub/popular_version_control_git.epub)
+* [最流行的版本控制系统：Git Mobi](http://book.crifan.com/books/popular_version_control_git/mobi/popular_version_control_git.mobi)
 
 ## 版权说明
 

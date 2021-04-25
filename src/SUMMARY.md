@@ -1,4 +1,4 @@
-# 最流行的版本管理系统：Git
+# 最流行的版本控制系统：Git
 
 * [前言](README.md)
 * [Git概述](git_overview/README.md)
